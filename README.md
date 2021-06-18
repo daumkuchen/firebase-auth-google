@@ -1,5 +1,5 @@
 # firebase-auth-google
-Firebase auth utils.
+Firebase google account auth utils.
 
 * FirebaseUI
 * Typescript（.tsx）
